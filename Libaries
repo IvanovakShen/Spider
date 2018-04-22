@@ -1,0 +1,12 @@
+Default Libaries: re, urllib
+Third-part libraies: requests 
+selenium chromedriver
+phantomjs (No interface broswer, comparing to Selenium)
+BeautifulSoup
+lxml
+Pyquery (Jquery)
+
+Storage Libraries: Pymysql pymongo redis
+flask
+
+outer server framework jupyter
